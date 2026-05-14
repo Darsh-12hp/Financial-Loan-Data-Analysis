@@ -7,5 +7,12 @@ The main objective is to:
 •	Support better credit risk assessment and decision-making 
 
 ## DataSet Used
-- <a href="https://github.com/Darsh-12hp/Financial-Loan-Data-Analysis/blob/main/financial_loan_data_excel.xlsx">DataSet</a> 
+- <a href="https://github.com/Darsh-12hp/Financial-Loan-Data-Analysis/blob/main/financial_loan_data_excel.xlsx">DataSet</a>
+
+## Tools Used
+Tools & Skills Used
+•	Excel (Pivot Tables, Power Query, Dashboard Design) 
+•	Data Cleaning & Transformation 
+•	KPI Creation & Data Visualization 
+
 
