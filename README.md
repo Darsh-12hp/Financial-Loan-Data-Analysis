@@ -50,3 +50,12 @@ DTI (Debt-to-Income Ratio): Measures borrower’s repayment capacity <br>
 Interest Rate Analysis: Helps identify risk vs return patterns <br>
 Loan Purpose: Understands why customers are borrowing <br>
 Loan Status: Tracks performance (Fully Paid / Default / Current) <br>
+•	Good loans contribute the majority of revenue with lower default risk  <br>
+•	Bad loans show higher interest rates but increased default probability  <br>
+•	Certain customer segments have higher chances of loan default  <br>
+•	Monthly trends help track loan growth and performance  <br>
+
+# Conclusion
+This project demonstrates how data analysis can help banks minimize risk, improve loan approval strategies, and optimize overall portfolio performance.
+
+
